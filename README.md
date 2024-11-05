@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aung Zay Myo! 👋
 
-<!--
-**Jedi-rude/Jedi-rude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Cyber Security student.
 
-Here are some ideas to get you started:
+# Ethical-Hacking
+Basic Ethical Hacking Tutorial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This Repository will upload basic Ethical Hacking tutorial and Basic Hacking Labs for Cyber Security Ethusiastic.
+This Repository is referenced to CEH modules and Tools that I have studied.
+
+## 🛠️ Skills
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![php](https://img.shields.io/badge/-php-61DAFB?style=flat&logo=php&logoColor=black)
+
+## 🔭 Platforms
+[![tryhackme](https://img.shields.io/badge/tryhackme-1DB954?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jordan.11)
+[![BlueTeamLabs](https://img.shields.io/badge/BlueTeamLabs-1AB954?style=for-the-badge&logoColor=white)](https://blueteamlabs.online/home/user/fc0e896730f73a07765320)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jedi-rude&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🔗 Contact
+- [LinkedIn](https://www.linkedin.com/in/aung-zay-myo/)
+- [Twitter](https://x.com/aungzaymyo_cs)
+- [Email](mailto:aungzaymyo.info@gmail.com)
