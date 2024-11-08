@@ -3,11 +3,6 @@
 ## 🚀 About Me
 I'm a Cyber Security student.
 
-# Ethical-Hacking
-Basic Ethical Hacking Tutorial
-
-This Repository will upload basic Ethical Hacking tutorial and Basic Hacking Labs for Cyber Security Ethusiastic.
-This Repository is referenced to CEH modules and Tools that I have studied.
 
 ## 🛠️ Skills
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
